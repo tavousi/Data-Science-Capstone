@@ -1,6 +1,7 @@
 # Data-Science-Capstone
 Course Applied Data Science Capstone in Coursera by IBM
-                                                            Applied Data Science Capstone
+
+##                                                            Applied Data Science Capstone
                                                                        by IBM
 
 About this Course
