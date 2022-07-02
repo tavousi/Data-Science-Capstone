@@ -1,7 +1,7 @@
 # Data-Science-Capstone
 Course Applied Data Science Capstone in Coursera by IBM
-                                                           ## Applied Data Science Capstone
-                                                                        by IBM
+                                                            Applied Data Science Capstone
+                                                                       by IBM
 
 About this Course
 This capstone project course will give you a taste of what data scientists go through in real life when working with real datasets. You will assume the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting your results to stakeholders.   
@@ -22,9 +22,9 @@ Language:English
 Volunteer to translate subtitles for this course
 How To Pass	Pass all graded assignments to complete the course.
 
-#Syllabus
+# Syllabus
 
-#WEEK 1
+# WEEK 1
 Introduction
 In this capstone, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. In this module, you will be provided with an overview of the problem and the tools you need to complete the course.
 
@@ -34,7 +34,7 @@ expandweek 1 material
 Graded: Graded Quiz: Data Collection API with Webscraping
 Graded: Graded Quiz: Data Wrangling Quiz
 
-#WEEK 2
+# WEEK 2
 Exploratory Data Analysis (EDA)
 In this module, you will collect data on the Falcon 9 first-stage landings. You will use a RESTful API  and web scraping. You will also convert the data into a dataframe and then perform some data wrangling.
 1 video, 2 practice quizzes
@@ -43,7 +43,7 @@ expandweek 2 material
 Graded: Exploratory Data Analysis using SQL
 Graded: Exploratory Data Analysis for Data Visualization
 
-#WEEK 3
+# WEEK 3
 Interactive Visual Analytics and Dashboard
 In this module, you will build a dashboard to analyze launch records interactively with Plotly Dash. You will then build an interactive map to analyze the launch site proximity with Folium.
 1 video, 1 practice quiz
@@ -51,7 +51,7 @@ expandweek 3 material
 
 Graded: Graded Quiz: Interactive Visual Analytics and Dashboard
 
-#WEEK 4
+# WEEK 4
 Predictive Analysis (Classification)
 In this module, you will use machine learning to determine if the first stage of Falcon 9 will land successfully. You will split your data into training data and test data to find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression. Then find the method that performs best using test data.
 
@@ -60,7 +60,7 @@ expandweek 4 material
 
 Graded: Graded Quiz: Predictive Analysisis
 
-#WEEK 5
+# WEEK 5
 Present Your Data-Driven Insights
 In this module, you will compile all of your activities into one place and deliver your data-driven insights to determine if the first stage of Falcon 9 will land successfully.
 2 videos, 2 readings
